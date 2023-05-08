@@ -1,0 +1,15 @@
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+.profile{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+body > selector > div > header > a > span{
+    font-weight: bold;
+    color: olivedrab;
+    padding: 20px;
+}
